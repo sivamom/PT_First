@@ -1,0 +1,77 @@
+body{
+	background-color:#380B61;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+#mainbody{
+	background-color:black; 
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:30px;
+	padding-bottom:30px;
+	margin-top:;
+}
+
+
+
+
+
+
+
+#body{
+	
+	margin-top: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	
+}
+h1{
+	color:#FBFBEF;
+	text-align:center;
+	padding-top:20px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:30px;
+	text-decoration:bold;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+
+
+#paragraph1{
+	background-color:#8A0808;
+	padding-top:20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	
+}
+#paragraph2{
+	padding-top:20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+    background-color:#A9F5F2;
+    
+}
+#paragraph3{
+	padding-top:20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+    background-color:#00FF00;
+	
+}
+
+hr{
+	color:#F6CECE;
+<!--background-color:##F6CECE;-->
+	height=20px;
+	border:0;
+	width:0px;
+
+
+}
